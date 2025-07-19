@@ -11,7 +11,6 @@ string[] art = {
 art.ToList().ForEach(Console.WriteLine);
 Console.WriteLine(
     "\n" +
-    "翔泳社40周年、おめでとうございます！\n" +
-    "これからも素晴らしい活動を応援しています！\n" +
-    "Happy 40th Anniversary, Shoeisha!"
+    " 翔泳社40周年、おめでとうございます！\n" +
+    " これからも素晴らしい活動を応援しています！"
 );
