@@ -1,6 +1,11 @@
 ﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 string[] art = {
+    " ***************************************** ",
+    " *                                       * ",
+    " *   Happy 40th Anniversary, Shoeisha!   * ",
+    " *                                       * ",
+    " ***************************************** ",
 };
 
 art.ToList().ForEach(Console.WriteLine);
